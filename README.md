@@ -10,8 +10,8 @@ In this repository i have major project in which i have analyzed reviews given b
 # Files Uploaded
 # Mini Project Files : 
     Notebook - Mini_Project_world_development_indicators_analysis.ipynb
-    Data - Mini_Project_indicators.csv
+    Data - https://www.kaggle.com/worldbank/world-development-indicators.
 
 # Major Project Files :
     Notebook - Major_Project_Employee_Reviews_Notebook.ipynb
-    Data - Major_Project_employee_reviews.csv
+    Data - https://www.kaggle.com/petersunga/google-amazon-facebook-employee-reviews
