@@ -16,6 +16,6 @@ In this repository i have major project in which i have analyzed reviews given b
     Notebook - Major_Project_Employee_Reviews_Notebook.ipynb
     Data - https://www.kaggle.com/petersunga/google-amazon-facebook-employee-reviews
 
-        Soon will be adding my EDX Certificate.
+Soon will be adding my EDX Certificate.
 
  ## Do reach out to me if you need guidance on clearing the EDX - Python for Data Science course over 'dhirajmishra57@gmail.com' - for free :)
